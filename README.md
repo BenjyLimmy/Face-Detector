@@ -4,3 +4,6 @@ Face detection app using Keras, TensorFlow &amp; OpenCV, built on the Keras VGG1
 Requirements:  
 
 `pip install pyqt5 labelme tensorflow opencv-python matplotlib albumentations`
+
+Steps:
+1. Running ipynb file should work ;)
