@@ -1,5 +1,5 @@
 # Face-Detector
-Face detection app using TensorFlow &amp; OpenCV, built on the Keras VGG16 Model
+Face detection app using Keras, TensorFlow &amp; OpenCV, built on the Keras VGG16 Model
 
 Requirements:  
 
